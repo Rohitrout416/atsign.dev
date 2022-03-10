@@ -25,3 +25,4 @@ We believe that the best way to get started with the platform is to actually try
 {{% link-card title="New to Flutter?" desc="Click here to learn more about it!" href="/docs/overview/newtoflutter" %}}
 {{% /card-grid %}}
 
+<a class="btn btn-danger" href="/docs/sample_apps/" role="button" >Next - Samples and Tutorials </a>

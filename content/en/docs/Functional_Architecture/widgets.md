@@ -619,3 +619,5 @@ A flutter plugin project to share location between two atsigns and track them on
 A flutter plugin project to manage events using the atprotocol.
 
 [Learn more](https://pub.dev/packages/at_events_flutter)
+
+<a class="btn btn-danger" href="/docs/functional_architecture/verbs/" role="button" >Next - Secondary Server </a>

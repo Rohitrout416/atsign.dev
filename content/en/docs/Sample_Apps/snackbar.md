@@ -206,3 +206,5 @@ If you are in the mood for reading more on the @platform, click [here](/docs/get
 If you are looking to gain more understanding of the @platform, we have more demo applications coming soon!
 
 For now, if you'd like to read more on the @platform, click [here](/docs/get-started/understand-the-platform/)
+
+<a class="btn btn-danger" href="/docs/packages/" role="button" >Next - Packages </a>

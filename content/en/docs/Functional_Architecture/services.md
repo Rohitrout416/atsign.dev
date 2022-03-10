@@ -43,3 +43,5 @@ The persistence defines the interfaces on how the data in @protocol is stored.
 Synchronization is a process to keep the data in mobile apps and @sign server identical.
 
 [Learn more](https://atsigncompany.medium.com/the-protocol-synchronization-77b00ca5341b)
+
+<a class="btn btn-danger" href="/docs/functional_architecture/libraries/" role="button" >Next - Libraries </a>

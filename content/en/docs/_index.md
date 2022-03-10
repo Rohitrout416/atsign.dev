@@ -50,6 +50,6 @@ Our Co-Founder/CTO, [Colin Constable](https://www.linkedin.com/in/colinconstable
 
 <iframe src="https://player.vimeo.com/video/670362764?h=62b7237cf2&title=false&dnt=true&byline=false" class="video-frame video_box" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
-## Where should I go next?
-
-- [Get Started](/docs/get-started/): Start setting up your machine.
+<footer>
+<a class="btn btn-danger" href="/docs/get-started/" role="button" >Get Started </a>
+</footer>

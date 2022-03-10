@@ -93,3 +93,4 @@ A Flutter plugin project to provide theme selection in @‎platform apps with ea
 
 [Learn more](https://pub.dev/packages/at_theme_flutter)
 
+<a class="btn btn-danger" href="/docs/functional_architecture/" role="button" >Next - Core Technologies </a>
